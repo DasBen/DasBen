@@ -4,10 +4,11 @@ Hi! I'm Ben currently a Java Backend Dev for a telecommunications company in Ger
 
 💻 Techstack
 
-- PHP with Symfony 
-- Java with Spring
+- PHP 7 (haven't done a lot lately)
+- Microservice Developerment with Java and Spring
 - Docker
-- MySQL / MariaDB /- PostgreSQL / Oracle SQL with PLSQL
+- GitHub Actions and Workflows
+- MySQL / MariaDB / PostgreSQL / Oracle SQL with PLSQL
 - Clean Architecture
 
 📬💻 Job Offerings
