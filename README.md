@@ -6,9 +6,10 @@ Hi! I'm Ben currently a Java Backend Dev for a telecommunications company in Ger
 
 - PHP 7 (haven't done a lot lately)
 - Microservice Developerment with Java and Spring
-- Docker
+- Full Stack Development with Serverless Framework, SST and Typescript
+- Building custom Docker Container
 - GitHub Actions and Workflows
-- MySQL / MariaDB / PostgreSQL / Oracle SQL with PLSQL
+- DynamoDB / MySQL / MariaDB / PostgreSQL / Oracle SQL with PLSQL
 - Clean Architecture
 
 📬💻 Job Offerings
