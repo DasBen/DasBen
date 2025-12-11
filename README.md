@@ -2,7 +2,7 @@
 Hi there 👋, I'm Ben!<br><br>I’m currently working as a **Backend DevOps** at a telecommunications company in Germany.
 
 ## 🚀 Current Work
-I’m currently focused on private repositories for the company I'm working at and building a **CI/CD pipeline** through GitHub.
+I’m currently focused on private repositories for the company I'm working at and building my personal All-In-One Tool for Task-Management.
 
 ## 🎮 Personal Interests
 In my free time, I enjoy **reading**, **gaming**, and staying active with **boxing fitness**. I'm passionate about learning new technologies and constantly improving my skills.
